@@ -1,1 +1,6 @@
-"# BelediyeUygulamasi" 
+# Bursa Büyükşehir Belediyesi Uygulaması
+
+# Summary
+
+Nowadays, billions of people uses social media apps and these apps earns billions of dollars from the users. Howewer, that social media apps used(like Facebook, Instagram, Twitter etc.) are centralised apps. Centralised apps keeps all the data (like users’ personal data, shared contents in the platform, comments, replies etc.) in a central database.But the system that we developed purposes to be an IPFS-based uncentralised social media platform alternative. IPFS-based uncentralised apps does not stores all the data in a central database unlike centralised apps.This data held in a network of many computers are uncentralised; so can not be collected by companies,  can not fall into the hands of malicious people and continues to stored forever. These features brought by IPFS makes our project an alternative for classic social media apps. Our Project also uses etherium blockchain, so the users can turn their sharings on IPFS into NFT’s by uploading them to blockchain. This gives the potential for buying important moments on internet, owning the contents that shared by loved ones, providing extra income to content creators and gives power to the project for being an alternative for classic social media apps. Our project also has the potential to be a social NFT platform.
+
